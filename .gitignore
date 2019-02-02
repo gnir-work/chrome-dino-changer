@@ -328,3 +328,9 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# No need to upload the resources file 
+./resources
+./resources.pak
+
+.vscode/**/*
